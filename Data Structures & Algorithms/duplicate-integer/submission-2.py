@@ -9,6 +9,6 @@ class Solution:
             hashset.add(n)
         return False
 
-# TC : O(N^2)
-# SC : O(1)
+# TC : O(N)
+# SC : O(N)
         
