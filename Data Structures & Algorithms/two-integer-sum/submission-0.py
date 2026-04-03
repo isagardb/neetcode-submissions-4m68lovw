@@ -9,5 +9,5 @@ class Solution:
 
 
 # TC : O(N^2)
-# SC : N(1)
+# SC : O(1)
         
